@@ -10,19 +10,17 @@ DRAFT v0.02 / Updated 2024-06-18
 
 I. TEST DESIGN (Before you start your a/b test)
 
-```[tasklist]
-Behavioral & Custom Metrics
+### Behavioral & Custom Metrics
 Does this experiment require any custom supporting / behavioral metrics?
 - [] No
 - [] Flow & progression metrics (step-by-step interactions)
 - [] Trade-off metrics (any things we expect to decrease)
 - [] Error states
 - [] Other custom metrics
-```
 
 
-```[tasklist]
+
 ### My tasks
 - [ ] https://github.com/octo-org/octo-repo/issues/45
 - [ ] Draft task
-```
+
